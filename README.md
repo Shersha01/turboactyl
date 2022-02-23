@@ -4,7 +4,7 @@ the installation is same like dashactyl
 
 follow the guide [Here](https://docs.dashactyl.com/)
 
-# =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+=
+# =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
 All features:
 - Resource Management (gift, use it to create servers, etc)
@@ -21,4 +21,4 @@ All features:
 - Webhook (Logs actions)
 - Gift Resources (Share resources with anyone)
 
-# =+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+=
+# =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
