@@ -2,6 +2,9 @@
 
 <hr>
 
+# **Disclaimer**
+We are not responsible for any damages.
+
 # Turboactyl V1 • The best Dashactyl fork
 Making a free or paid host and need a way for users to sign up, earn coins, manage servers? Try out turboactyl.
 To get started, scroll down and follow the guide
